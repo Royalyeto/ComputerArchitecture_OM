@@ -59,3 +59,6 @@ https://www.youtube.com/watch?v=zLP_X...
 
 Rethinking Memory System Design Lecture  @stanfordonline :
 https://www.youtube.com/watch?v=F7xZL...
+
+
+[ECTS Exchange Converter Google Sheet](https://docs.google.com/spreadsheets/d/1SvVyaDaUeci1di4C1Z98w9pTXPFLlkdwPgNryHG7Fko/edit#gid=0)
